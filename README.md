@@ -75,7 +75,7 @@
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohamedFarook-H&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MohamedFarook-H&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
   <br /> <br />
   <i>"The best way to predict the future is to create it."</i>
 </div>
