@@ -77,5 +77,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blueviolet" alt="Profile Views"/>
   <br /> <br />
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>"The best way to predict the future is to create it."</i>
 </div>
