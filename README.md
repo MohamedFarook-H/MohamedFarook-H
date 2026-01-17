@@ -1,60 +1,90 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Hi,%20I'm%20Mohamed%20Farook&fontSize=70&fontAlign=50&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8a2be2,ff69b4,00bfff&height=300&section=header&text=Mohamed%20Farook&fontSize=80&fontAlign=50&fontColor=ffffff&animation=fadeIn&desc=Building%20The%20Future%20with%20Zencripts&descSize=25&descAlign=50&descAlignY=65" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Founder+of+Noctubits;Building+Zencripts+%26+Zara+AI;Diploma+in+CSE+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=32&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&lines=Founder+of+Noctubits+🌌;Building+Zencripts+%26+Zara+AI+⚡;Full+Stack+Developer+💻;Diploma+in+CSE+Student+🎓" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
-<h3 align="center">🚀 About Me</h3>
-
-<p align="center">
- I am a passionate <b>Full Stack Developer</b> and a <b>Diploma in CSE Student</b> from Tamil Nadu. <br/>
- I love building brands and AI-integrated applications. Currently working on my own tech ecosystem under <b>Noctubits</b>.
-</p>
-
 <div align="center">
-  🌱 I’m currently learning <b>Android App Development (Kotlin)</b> <br/>
-  🔭 I’m currently working on <b>Zencripts (Web Brand)</b> & <b>Zara AI</b> <br/>
-  💬 Ask me about <b>React, Python, & Tech Business</b>
+  <h3>⚡ About Me</h3>
+  <p>
+    I am a visionary <b>Full Stack Developer</b> and <b>Tech Entrepreneur</b> from Tamil Nadu.<br>
+    Currently focusing on building my own tech ecosystem <b>Noctubits</b> and the AI assistant <b>Zara AI</b>.
+  </p>
 </div>
 
 <br/>
 
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+</div>
+
+<br/>
+
+<h3 align="center">🛠️ My Arsenal</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,react,html,css,androidstudio,vscode,github&theme=dark" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Gemini_2.0-8E75B2?style=for-the-badge&logo=google-bard&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-ReviOS-000000?style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
+<br/>
+
+<h3 align="center">💎 Featured Projects</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <img src="https://img.icons8.com/fluency/96/000000/galaxy.png" width="50"/><br/>
+        <b>Noctubits</b><br/>
+        <br/>
+        The Parent Tech Company.<br/>
+        <i>Innovation Hub</i>
+      </td>
+      <td align="center" width="300">
+        <img src="https://img.icons8.com/fluency/96/000000/web-design.png" width="50"/><br/>
+        <b>Zencripts</b><br/>
+        <br/>
+        Web Design Brand.<br/>
+        <i>Launching Feb 20, 2025</i>
+      </td>
+      <td align="center" width="300">
+        <img src="https://img.icons8.com/fluency/96/000000/robot-2.png" width="50"/><br/>
+        <b>Zara AI</b><br/>
+        <br/>
+        Smart Student Assistant.<br/>
+        <i>Powered by Gemini</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
   <br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google-bard&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReviOS_User-000000?style=for-the-badge&logo=windows&logoColor=white" />
-</div>
-
-<br/>
-
-<h3 align="center">💎 My Brands & Projects</h3>
-
-| **Noctubits** 🌌 | **Zencripts** ⚡ | **Zara AI** 🤖 |
-| :---: | :---: | :---: |
-| *My Parent Tech Company* | *Web Design & Course Brand* | *AI Assistant for Students* |
-| Building the Future | Launching Feb 20, 2025 | Powered by Gemini 2.0 |
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blueviolet" alt="Profile Views"/>
-</div>
-
----
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <br/>
+  <i>"Dream Big, Code Bigger."</i>
 </div>
