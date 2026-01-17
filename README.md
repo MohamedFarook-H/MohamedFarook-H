@@ -1,90 +1,81 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8a2be2,ff69b4,00bfff&height=300&section=header&text=Mohamed%20Farook&fontSize=80&fontAlign=50&fontColor=ffffff&animation=fadeIn&desc=Building%20The%20Future%20with%20Zencripts&descSize=25&descAlign=50&descAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,24243e&height=320&section=header&text=Mohamed%20Farook&fontSize=80&fontAlign=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Building%20Tech%20Ecosystems%20%40%20Noctubits&descSize=20&descAlign=50&descAlignY=65" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=32&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&lines=Founder+of+Noctubits+🌌;Building+Zencripts+%26+Zara+AI+⚡;Full+Stack+Developer+💻;Diploma+in+CSE+Student+🎓" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&pause=1000&color=A6E3A1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Founder+of+Noctubits+%F0%9F%8C%8C;Building+Zencripts+%26+Zara+AI+%E2%9A%A1;Diploma+in+CSE+Student+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
-
-<br/>
+<br />
 
 <div align="center">
-  <h3>⚡ About Me</h3>
-  <p>
-    I am a visionary <b>Full Stack Developer</b> and <b>Tech Entrepreneur</b> from Tamil Nadu.<br>
-    Currently focusing on building my own tech ecosystem <b>Noctubits</b> and the AI assistant <b>Zara AI</b>.
+  <h3>🚀 About Me</h3>
+  <p style="font-size: 16px;">
+    I am a passionate <b>Full Stack Developer</b> and a <b>Diploma in CSE Student</b> from Tamil Nadu. <br/>
+    I focus on building sustainable brands and AI-integrated applications. <br/>
+    Currently architecting my own tech ecosystem under <b>Noctubits</b>.
   </p>
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+  🌱 Learning <b>Android App Development (Kotlin)</b> &nbsp;|&nbsp; 
+  🔭 Building <b>Zencripts</b> & <b>Zara AI</b> &nbsp;|&nbsp; 
+  💬 Ask me about <b>React & Python</b>
 </div>
 
-<br/>
+<br />
 
-<h3 align="center">🛠️ My Arsenal</h3>
+<h3 align="center">🛠️ Tech Arsenal</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,react,html,css,androidstudio,vscode,github&theme=dark" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Gemini_2.0-8E75B2?style=for-the-badge&logo=google-bard&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-ReviOS-000000?style=for-the-badge&logo=windows&logoColor=white" />
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,html,css,react,androidstudio,vscode,github&theme=dark" />
+    </a>
+  </p>
+  
+  <img src="https://img.shields.io/badge/AI-Gemini_API-8E75B2?style=flat-square&logo=google-bard&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-ReviOS-000000?style=flat-square&logo=windows&logoColor=white" />
 </div>
 
-<br/>
+<br />
 
-<h3 align="center">💎 Featured Projects</h3>
+<h3 align="center">💎 My Brands & Projects</h3>
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td align="center" width="300">
-        <img src="https://img.icons8.com/fluency/96/000000/galaxy.png" width="50"/><br/>
+      <td width="300" align="center">
+        <h1>🌌</h1>
         <b>Noctubits</b><br/>
         <br/>
-        The Parent Tech Company.<br/>
-        <i>Innovation Hub</i>
+        <i>My Parent Tech Company</i><br/>
+        Building the Future
       </td>
-      <td align="center" width="300">
-        <img src="https://img.icons8.com/fluency/96/000000/web-design.png" width="50"/><br/>
+      <td width="300" align="center">
+        <h1>⚡</h1>
         <b>Zencripts</b><br/>
         <br/>
-        Web Design Brand.<br/>
-        <i>Launching Feb 20, 2025</i>
+        <i>Web Design & Course Brand</i><br/>
+        Launching Feb 20, 2025
       </td>
-      <td align="center" width="300">
-        <img src="https://img.icons8.com/fluency/96/000000/robot-2.png" width="50"/><br/>
+      <td width="300" align="center">
+        <h1>🤖</h1>
         <b>Zara AI</b><br/>
         <br/>
-        Smart Student Assistant.<br/>
-        <i>Powered by Gemini</i>
+        <i>AI Assistant for Students</i><br/>
+        Powered by Gemini 2.0
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-  <br/>
-  <br/>
-  <i>"Dream Big, Code Bigger."</i>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  <br /> <br />
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </div>
