@@ -185,5 +185,5 @@
 </div>
 
 <div align="center">
-  <sub style="color: #1D4ED8;">© 2025 Zifton Tech. All rights reserved.</sub>
+  <sub style="color: #1D4ED8;">© 2026 Zifton Tech. All rights reserved.</sub>
 </div>
