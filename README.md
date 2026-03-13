@@ -1,7 +1,6 @@
 <div align="center">
   <!-- Premium Blue & White Header with Clean Design -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0A174E&height=200&section=header&text=Mohamed%20Farook&fontSize=60&fontColor=FFFFFF&animation=fadeIn&desc=Building%20%40%20Zifton%20Tech&descSize=18&descAlignY=60" width="100%"/>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0A174E&height=200&section=header&text=Mohamed%20Farook&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=Building%20%40%20Zifton%20Tech&descSize=16&descAlignY=55&descAlign=50" width="100%"/></div>
 
 <br/>
 
