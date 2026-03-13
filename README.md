@@ -124,14 +124,34 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A174E,1E3A8A,3B82F6&height=120&section=footer" width="100%"/>
+  <!-- Blue Themed Footer with Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A174E,1E3A8A,3B82F6&height=150&section=footer&text=Zifton%20Tech%20|%20Innovating%20Tomorrow&fontSize=24&fontAlign=50&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%"/>
 </div>
 
+<br />
+
 <div align="center">
-  <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="60%"/>
-  <br/><br/>
-  <i>✨ "Code is poetry, and innovation is my canvas." ✨</i>
-  <br/><br/>
-  <sub>⭐ From Zifton Tech with 💙</sub>
+  <!-- Quote Card with Blue Theme -->
+  <table style="border-collapse: separate; border-spacing: 20px; border: none; max-width: 600px;">
+    <tr>
+      <td align="center" style="background: linear-gradient(135deg, #0A174E 0%, #1E3A8A 100%); border-radius: 15px; padding: 25px; box-shadow: 0 10px 30px rgba(59, 130, 246, 0.3);">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%" style="background: transparent; border: none;"/>
+        <br/><br/>
+        <div style="color: #EFF6FF; font-size: 18px; font-style: italic;">
+          ✨ "Code is poetry, and innovation is my canvas." ✨
+        </div>
+        <br/>
+        <div style="color: #93C5FD; font-size: 14px;">
+          ⭐ Crafted with 💙 by Zifton Tech
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<!-- Extra Blue Wave for Consistency -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0A174E,1E3A8A,3B82F6&height=4&section=footer" width="100%"/>
 </div>
