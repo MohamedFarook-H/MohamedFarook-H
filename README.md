@@ -1,189 +1,561 @@
 <div align="center">
-  <!-- Website Matched Header - Zifton Tech Blue -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=2563EB&height=220&section=header&text=Mohamed%20Farook&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=Founder%20%7C%20Zifton%20Tech&descSize=20&descAlignY=70&descAlign=50" width="100%"/>
+
+  <!-- Flectonis Futuristic Header -->
+
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=6366F1&height=240&section=header&text=Mohamed%20Farook&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=Founder%20%7C%20Flectonis&descSize=21&descAlignY=70&descAlign=50" width="100%"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Founder+of+Zifton+Tech;Building+Zencripts+%26+Zara+AI;Diploma+in+CSE+Student" alt="Typing SVG" />
-  </a>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Founder+of+Flectonis;Building+Zencripts+%26+Zara+AI;Turning+Ideas+Into+Technology" alt="Typing SVG" />
+
 </div>
 
 <br/>
 
-<!-- About Section with Website Colors -->
+---
+
 <div align="center">
-  <table style="border: none; max-width: 800px;">
-    <tr>
-      <td width="65%" style="border: none; text-align: left; padding: 20px;">
-        <h2 style="color: #2563EB; border-bottom: 3px solid #2563EB; padding-bottom: 10px; display: inline-block;">👨‍💻 ABOUT ME</h2>
-        <p style="color: #0F172A; font-size: 16px; line-height: 1.8;">
-          I'm a passionate <b style="color: #2563EB;">Full Stack Developer</b> and <b style="color: #2563EB;">Diploma in CSE Student</b> from Tamil Nadu.<br/><br/>
-          I focus on building sustainable brands and AI-integrated applications.<br/>
-          Currently architecting my own tech ecosystem under <b style="color: #2563EB;">Zifton Tech</b>.
-        </p>
-        <br/>
-        <p style="color: #1D4ED8;">
-          🌱 Learning: Android Dev (Kotlin) &nbsp;&nbsp; | &nbsp;&nbsp; 
-          🔭 Building: Zencripts & Zara AI &nbsp;&nbsp; | &nbsp;&nbsp; 
-          💬 Ask me: React & Python
-        </p>
-      </td>
-      <td width="35%" align="center" style="border: none;">
-        <!-- Gradient Card - Website Exact Colors -->
-        <div style="background: linear-gradient(145deg, #2563EB 0%, #1D4ED8 100%); border-radius: 30px; padding: 30px 20px; box-shadow: 0 10px 25px rgba(37,99,235,0.3);">
-          <div style="font-size: 80px;">🚀</div>
-          <div style="color: white; font-size: 24px; font-weight: bold;">Zifton Tech</div>
-          <div style="color: rgba(255,255,255,0.9); font-size: 14px; margin-top: 10px;">Innovating Tomorrow</div>
-        </div>
-      </td>
-    </tr>
-  </table>
+
+## 👨‍💻 ABOUT ME
+
 </div>
 
-<br/>
-<br/>
-
-<!-- Tech Stack Section -->
-<h2 align="center" style="color: #2563EB;">🛠️ &nbsp;TECH STACK</h2>
-
 <div align="center">
-  <table style="border: none; background: transparent;">
-    <tr>
-      <td align="center" style="border: none; padding: 15px;">
-        <div style="background: white; border-radius: 15px; padding: 20px; box-shadow: 0 5px 20px rgba(37,99,235,0.1); border: 1px solid #F1F5F9;">
-          <div style="font-size: 16px; color: #2563EB; font-weight: bold; margin-bottom: 15px;">LANGUAGES</div>
-          <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-            <span style="background: #F1F5F9; color: #2563EB; padding: 8px 16px; border-radius: 25px; font-weight: 500;">Python</span>
-            <span style="background: #F1F5F9; color: #2563EB; padding: 8px 16px; border-radius: 25px; font-weight: 500;">JavaScript</span>
-            <span style="background: #F1F5F9; color: #2563EB; padding: 8px 16px; border-radius: 25px; font-weight: 500;">TypeScript</span>
-            <span style="background: #F1F5F9; color: #2563EB; padding: 8px 16px; border-radius: 25px; font-weight: 500;">Kotlin</span>
-          </div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border: none; padding: 15px;">
-        <div style="background: white; border-radius: 15px; padding: 20px; box-shadow: 0 5px 20px rgba(37,99,235,0.1); border: 1px solid #F1F5F9;">
-          <div style="font-size: 16px; color: #2563EB; font-weight: bold; margin-bottom: 15px;">FRAMEWORKS & TOOLS</div>
-          <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-            <span style="background: #F1F5F9; color: #2563EB; padding: 8px 16px; border-radius: 25px; font-weight: 500;">React</span>
-            <span style="background: #F1F5F9; color: #2563EB; padding: 8px 16px; border-radius: 25px; font-weight: 500;">Android Studio</span>
-            <span style="background: #F1F5F9; color: #2563EB; padding: 8px 16px; border-radius: 25px; font-weight: 500;">VS Code</span>
-            <span style="background: #F1F5F9; color: #2563EB; padding: 8px 16px; border-radius: 25px; font-weight: 500;">GitHub</span>
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
+
+<table>
+<tr>
+
+<td width="65%" style="border:none;">
+
+<p style="font-size:16px; line-height:1.8;">
+
+I'm a passionate <b style="color:#8B5CF6;">Full Stack Developer</b> and <b style="color:#6366F1;">Developer from Tamil Nadu</b>.
+
+<br/><br/>
+
+I focus on building sustainable brands, modern digital products and AI-integrated applications.
+
+<br/>
+
+Currently architecting my own technology ecosystem under <b style="color:#A855F7;">Flectonis</b>.
+
+</p>
+
+<br/>
+
+<p style="color:#8B5CF6;">
+
+🌱 Learning: Android Dev (Kotlin)    |   
+
+🔭 Building: Zencripts & Zara AI    |   
+
+💬 Ask me: React & Python
+
+</p>
+
+</td>
+
+<td width="35%" align="center" style="border:none;">
+
+<div style="
+background:linear-gradient(145deg,#6366F1 0%,#8B5CF6 50%,#A855F7 100%);
+border-radius:30px;
+padding:35px 20px;
+box-shadow:0 15px 45px rgba(99,102,241,.35);
+">
+
+<div style="font-size:80px;">⚡</div>
+
+<div style="color:white;font-size:25px;font-weight:bold;">
+Flectonis
 </div>
 
-<br/>
-<br/>
+<div style="color:rgba(255,255,255,.9);font-size:14px;margin-top:10px;">
+Build • Innovate • Evolve
+</div>
 
-<!-- Projects Section -->
-<h2 align="center" style="color: #2563EB;">💎 &nbsp;PROJECTS & BRANDS</h2>
+</div>
 
-<div align="center">
-  <table style="border-collapse: separate; border-spacing: 20px; max-width: 1000px;">
-    <tr>
-      <td width="33%" align="center" style="border: none; background: white; border-radius: 20px; padding: 30px 20px; box-shadow: 0 10px 30px rgba(37,99,235,0.08);">
-        <div style="font-size: 48px; color: #2563EB;">🚀</div>
-        <h3 style="color: #2563EB; margin: 15px 0 5px;">Zifton Tech</h3>
-        <div style="width: 50px; height: 2px; background: #2563EB; margin: 10px auto;"></div>
-        <p style="color: #0F172A;">Parent Tech Company<br/><span style="color: #1D4ED8; font-size: 14px;">Innovating Tomorrow</span></p>
-      </td>
-      <td width="33%" align="center" style="border: none; background: white; border-radius: 20px; padding: 30px 20px; box-shadow: 0 10px 30px rgba(37,99,235,0.08);">
-        <div style="font-size: 48px; color: #2563EB;">⚡</div>
-        <h3 style="color: #2563EB; margin: 15px 0 5px;">Zencripts</h3>
-        <div style="width: 50px; height: 2px; background: #2563EB; margin: 10px auto;"></div>
-        <p style="color: #0F172A;">Web Design & Courses<br/><span style="color: #1D4ED8; font-size: 14px;">Launching Feb 20, 2025</span></p>
-      </td>
-      <td width="33%" align="center" style="border: none; background: white; border-radius: 20px; padding: 30px 20px; box-shadow: 0 10px 30px rgba(37,99,235,0.08);">
-        <div style="font-size: 48px; color: #2563EB;">🤖</div>
-        <h3 style="color: #2563EB; margin: 15px 0 5px;">Zara AI</h3>
-        <div style="width: 50px; height: 2px; background: #2563EB; margin: 10px auto;"></div>
-        <p style="color: #0F172A;">AI Assistant for Students<br/><span style="color: #1D4ED8; font-size: 14px;">Powered by Gemini 2.0</span></p>
-      </td>
-    </tr>
-  </table>
+</td>
+
+</tr>
+</table>
+
 </div>
 
 <br/>
 <br/>
 
-<!-- GitHub Stats -->
-<h2 align="center" style="color: #2563EB;">📊 &nbsp;GITHUB STATS</h2>
+---
 
 <div align="center">
-  <table style="border: none; background: transparent; max-width: 900px;">
-    <tr>
-      <td style="border: none; padding: 10px;">
-        <div style="background: white; border-radius: 20px; padding: 20px; box-shadow: 0 5px 20px rgba(37,99,235,0.08);">
-          <img src="https://github-readme-stats.vercel.app/api?username=MohamedFarook-H&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=1D4ED8&text_color=0F172A&bg_color=ffffff" width="100%"/>
-        </div>
-      </td>
-      <td style="border: none; padding: 10px;">
-        <div style="background: white; border-radius: 20px; padding: 20px; box-shadow: 0 5px 20px rgba(37,99,235,0.08);">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedFarook-H&theme=default&hide_border=true&background=ffffff&stroke=2563EB&ring=2563EB&fire=1D4ED8&currStreakNum=0F172A" width="100%"/>
-        </div>
-      </td>
-    </tr>
-  </table>
+
+## 🛠️ TECH STACK
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" style="padding:15px;">
+
+<div style="
+background:linear-gradient(145deg,rgba(99,102,241,.12),rgba(139,92,246,.08));
+border-radius:20px;
+padding:25px;
+border:1px solid rgba(139,92,246,.3);
+box-shadow:0 10px 35px rgba(99,102,241,.12);
+">
+
+<div style="
+font-size:17px;
+color:#A855F7;
+font-weight:bold;
+margin-bottom:18px;
+">
+LANGUAGES
+</div>
+
+<div>
+
+<span style="
+background:#EEF2FF;
+color:#6366F1;
+padding:9px 17px;
+border-radius:25px;
+font-weight:600;
+">
+Python </span>
+
+ 
+
+<span style="
+background:#F3E8FF;
+color:#8B5CF6;
+padding:9px 17px;
+border-radius:25px;
+font-weight:600;
+">
+JavaScript </span>
+
+ 
+
+<span style="
+background:#EEF2FF;
+color:#6366F1;
+padding:9px 17px;
+border-radius:25px;
+font-weight:600;
+">
+TypeScript </span>
+
+ 
+
+<span style="
+background:#F3E8FF;
+color:#8B5CF6;
+padding:9px 17px;
+border-radius:25px;
+font-weight:600;
+">
+Kotlin </span>
+
+</div>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="padding:15px;">
+
+<div style="
+background:linear-gradient(145deg,rgba(139,92,246,.12),rgba(168,85,247,.08));
+border-radius:20px;
+padding:25px;
+border:1px solid rgba(168,85,247,.3);
+box-shadow:0 10px 35px rgba(139,92,246,.12);
+">
+
+<div style="
+font-size:17px;
+color:#8B5CF6;
+font-weight:bold;
+margin-bottom:18px;
+">
+FRAMEWORKS & TOOLS
+</div>
+
+<div>
+
+<span style="
+background:#EEF2FF;
+color:#6366F1;
+padding:9px 17px;
+border-radius:25px;
+font-weight:600;
+">
+React </span>
+
+ 
+
+<span style="
+background:#F3E8FF;
+color:#8B5CF6;
+padding:9px 17px;
+border-radius:25px;
+font-weight:600;
+">
+Android Studio </span>
+
+ 
+
+<span style="
+background:#EEF2FF;
+color:#6366F1;
+padding:9px 17px;
+border-radius:25px;
+font-weight:600;
+">
+VS Code </span>
+
+ 
+
+<span style="
+background:#F3E8FF;
+color:#8B5CF6;
+padding:9px 17px;
+border-radius:25px;
+font-weight:600;
+">
+GitHub </span>
+
+</div>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+<br/>
+
+---
+
+<div align="center">
+
+## 💎 PROJECTS & BRANDS
+
+</div>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="33%" align="center" style="
+background:linear-gradient(145deg,rgba(99,102,241,.12),rgba(139,92,246,.08));
+border-radius:25px;
+padding:30px 20px;
+border:1px solid rgba(139,92,246,.25);
+">
+
+<div style="font-size:50px;">⚡</div>
+
+<h3 style="color:#8B5CF6;">
+Flectonis
+</h3>
+
+<div style="
+width:55px;
+height:3px;
+background:linear-gradient(90deg,#6366F1,#A855F7);
+margin:12px auto;
+">
+</div>
+
+<p>
+Technology Company<br/>
+
+<span style="color:#A855F7;font-size:14px;">
+Build • Innovate • Evolve
+</span>
+
+</p>
+
+</td>
+
+<td width="33%" align="center" style="
+background:linear-gradient(145deg,rgba(139,92,246,.12),rgba(168,85,247,.08));
+border-radius:25px;
+padding:30px 20px;
+border:1px solid rgba(168,85,247,.25);
+">
+
+<div style="font-size:50px;">🚀</div>
+
+<h3 style="color:#6366F1;">
+Zencripts
+</h3>
+
+<div style="
+width:55px;
+height:3px;
+background:linear-gradient(90deg,#6366F1,#A855F7);
+margin:12px auto;
+">
+</div>
+
+<p>
+Web Design & Courses<br/>
+
+<span style="color:#8B5CF6;font-size:14px;">
+Digital Learning Platform
+</span>
+
+</p>
+
+</td>
+
+<td width="33%" align="center" style="
+background:linear-gradient(145deg,rgba(99,102,241,.12),rgba(168,85,247,.08));
+border-radius:25px;
+padding:30px 20px;
+border:1px solid rgba(99,102,241,.25);
+">
+
+<div style="font-size:50px;">🤖</div>
+
+<h3 style="color:#A855F7;">
+Zara AI
+</h3>
+
+<div style="
+width:55px;
+height:3px;
+background:linear-gradient(90deg,#6366F1,#A855F7);
+margin:12px auto;
+">
+</div>
+
+<p>
+AI Assistant for Students<br/>
+
+<span style="color:#8B5CF6;font-size:14px;">
+Powered by Gemini
+</span>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br/>
+<br/>
+
+---
+
+<div align="center">
+
+## 📊 GITHUB STATS
+
+</div>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td style="padding:10px;">
+
+<div style="
+background:linear-gradient(145deg,rgba(99,102,241,.08),rgba(139,92,246,.08));
+border-radius:25px;
+padding:20px;
+border:1px solid rgba(99,102,241,.25);
+">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=MohamedFarook-H&show_icons=true&theme=radical&hide_border=true&title_color=8B5CF6&icon_color=6366F1&text_color=E2E8F0&bg_color=0B0A1A"
+width="100%"
+/>
+
+</div>
+
+</td>
+
+<td style="padding:10px;">
+
+<div style="
+background:linear-gradient(145deg,rgba(139,92,246,.08),rgba(168,85,247,.08));
+border-radius:25px;
+padding:20px;
+border:1px solid rgba(139,92,246,.25);
+">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedFarook-H&theme=dark&hide_border=true&background=0B0A1A&stroke=6366F1&ring=8B5CF6&fire=A855F7&currStreakNum=E2E8F0"
+width="100%"
+/>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
+---
+
 <div align="center">
-  <div style="background: white; border-radius: 20px; padding: 20px; box-shadow: 0 5px 20px rgba(37,99,235,0.08); max-width: 900px; margin: 0 auto; border: 1px solid #F1F5F9;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedFarook-H&theme=minimal&bg_color=ffffff&color=2563EB&line=1D4ED8&point=2563EB&area=true&area_color=2563EB&hide_border=true" width="100%"/>
-  </div>
+
+<div style="
+background:linear-gradient(145deg,rgba(99,102,241,.08),rgba(139,92,246,.08));
+border-radius:25px;
+padding:22px;
+border:1px solid rgba(139,92,246,.25);
+">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedFarook-H&theme=react-dark&bg_color=0B0A1A&color=8B5CF6&line=6366F1&point=A855F7&area=true&area_color=6366F1&hide_border=true"
+width="100%"
+/>
+
+</div>
+
 </div>
 
 <br/>
 <br/>
 
-<!-- Connect Section -->
-<h2 align="center" style="color: #2563EB;">🌐 &nbsp;CONNECT</h2>
+---
 
 <div align="center">
-  <div style="background: white; border-radius: 50px; padding: 20px 30px; box-shadow: 0 5px 20px rgba(37,99,235,0.08); display: inline-block; border: 1px solid #F1F5F9;">
-    <a href="https://github.com/MohamedFarook-H" style="margin: 0 15px; text-decoration: none;">
-      <img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/yourprofile" style="margin: 0 15px; text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://zifton.tech" style="margin: 0 15px; text-decoration: none;">
-      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
-  </div>
+
+## 🌐 CONNECT
+
+<div style="
+background:linear-gradient(145deg,rgba(99,102,241,.12),rgba(139,92,246,.12));
+border-radius:50px;
+padding:20px 30px;
+border:1px solid rgba(139,92,246,.3);
+box-shadow:0 10px 35px rgba(99,102,241,.12);
+display:inline-block;
+">
+
+<a href="https://github.com/MohamedFarook-H">
+<img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+  
+
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+  
+
+<a href="#">
+<img src="https://img.shields.io/badge/Flectonis-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
+
 </div>
 
 <br/>
 <br/>
 
-<!-- Quote Section -->
+---
+
 <div align="center">
-  <div style="max-width: 700px; margin: 0 auto; background: white; border-radius: 30px; padding: 30px; box-shadow: 0 5px 20px rgba(37,99,235,0.08); border: 1px solid #F1F5F9;">
-    <div style="font-size: 36px; color: #2563EB; margin-bottom: 10px;">❝</div>
-    <p style="color: #0F172A; font-size: 18px; font-style: italic; line-height: 1.6;">The best way to predict the future is to create it.</p>
-    <div style="width: 50px; height: 2px; background: #2563EB; margin: 15px auto;"></div>
-    <p style="color: #1D4ED8; font-size: 14px;">— Mohamed Farook | Zifton Tech</p>
-  </div>
+
+<div style="
+max-width:750px;
+background:linear-gradient(145deg,rgba(99,102,241,.12),rgba(139,92,246,.12));
+border-radius:30px;
+padding:35px;
+border:1px solid rgba(139,92,246,.3);
+box-shadow:0 15px 45px rgba(99,102,241,.12);
+">
+
+<div style="font-size:40px;color:#8B5CF6;">
+❝
+</div>
+
+<p style="
+color:#E2E8F0;
+font-size:19px;
+font-style:italic;
+line-height:1.7;
+">
+
+The best way to predict the future is to create it.
+
+</p>
+
+<div style="
+width:60px;
+height:3px;
+background:linear-gradient(90deg,#6366F1,#A855F7);
+margin:18px auto;
+">
+</div>
+
+<p style="
+color:#A855F7;
+font-size:14px;
+">
+
+— Mohamed Farook | Flectonis
+
+</p>
+
+</div>
+
 </div>
 
 <br/>
 <br/>
 
-<!-- Footer - Website Matched -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=2563EB&height=100&section=footer&text=Zifton%20Tech%20•%20Innovating%20Tomorrow&fontSize=18&fontColor=FFFFFF&animation=twinkling" width="100%"/>
-</div>
+---
 
 <div align="center">
-  <sub style="color: #1D4ED8;">© 2026 Zifton Tech. All rights reserved.</sub>
+
+<img
+src="https://capsule-render.vercel.app/api?type=soft&color=6366F1&height=110&section=footer&text=Flectonis%20%E2%80%A2%20Build%20%E2%80%A2%20Innovate%20%E2%80%A2%20Evolve&fontSize=18&fontColor=FFFFFF&animation=twinkling"
+width="100%"
+/>
+
+<br/>
+
+<sub style="color:#8B5CF6;">
+© 2026 Flectonis. All rights reserved.
+</sub>
+
 </div>
