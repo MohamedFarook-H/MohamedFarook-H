@@ -1,245 +1,97 @@
 <div align="center">
 
-  <!-- Flectonis Futuristic Header -->
-
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=6366F1&height=240&section=header&text=Mohamed%20Farook&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=Founder%20%7C%20Flectonis&descSize=21&descAlignY=70&descAlign=50" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=220&section=header&text=MOHAMED%20FAROOK&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=BUILDER%20%7C%20DEVELOPER%20%7C%20FOUNDER&descAlignY=62&descSize=16" width="100%"/>
 
 <br/>
 
-<div align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Founder+of+Flectonis;Building+Zencripts+%26+Zara+AI;Turning+Ideas+Into+Technology" alt="Typing SVG" />
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 👨‍💻 ABOUT ME
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="65%" style="border:none;">
-
-<p style="font-size:16px; line-height:1.8;">
-
-I'm a passionate <b style="color:#8B5CF6;">Full Stack Developer</b> and <b style="color:#6366F1;">Developer from Tamil Nadu</b>.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+digital+products+that+matter.;Full+Stack+Developer+%E2%80%A2+AI+Builder+%E2%80%A2+Founder;Architecting+the+Flectonis+ecosystem.;Turning+ideas+into+real+products." alt="Typing SVG"/>
 
 <br/><br/>
 
-I focus on building sustainable brands, modern digital products and AI-integrated applications.
+<a href="https://github.com/MohamedFarook-H">
+<img src="https://img.shields.io/badge/GITHUB-0F0F1A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/FLECTONIS-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-<br/>
+<br/><br/>
 
-Currently architecting my own technology ecosystem under <b style="color:#A855F7;">Flectonis</b>.
-
-</p>
-
-<br/>
-
-<p style="color:#8B5CF6;">
-
-🌱 Learning: Android Dev (Kotlin)    |   
-
-🔭 Building: Zencripts & Zara AI    |   
-
-💬 Ask me: React & Python
-
-</p>
-
-</td>
-
-<td width="35%" align="center" style="border:none;">
-
-<div style="
-background:linear-gradient(145deg,#6366F1 0%,#8B5CF6 50%,#A855F7 100%);
-border-radius:30px;
-padding:35px 20px;
-box-shadow:0 15px 45px rgba(99,102,241,.35);
-">
-
-<div style="font-size:80px;">⚡</div>
-
-<div style="color:white;font-size:25px;font-weight:bold;">
-Flectonis
-</div>
-
-<div style="color:rgba(255,255,255,.9);font-size:14px;margin-top:10px;">
-Build • Innovate • Evolve
-</div>
+<img src="https://komarev.com/ghpvc/?username=MohamedFarook-H&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Profile views"/>
 
 </div>
 
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br/>
 <br/>
 
 ---
 
 <div align="center">
 
-## 🛠️ TECH STACK
+# ⚡ THE BUILDER
+
+### I don't just write code.
+
+### I build **products, systems and ideas.**
 
 </div>
 
-<div align="center">
+<br/>
 
 <table>
 <tr>
 
-<td align="center" style="padding:15px;">
+<td width="55%" valign="top">
 
-<div style="
-background:linear-gradient(145deg,rgba(99,102,241,.12),rgba(139,92,246,.08));
-border-radius:20px;
-padding:25px;
-border:1px solid rgba(139,92,246,.3);
-box-shadow:0 10px 35px rgba(99,102,241,.12);
-">
+## 👨‍💻 About
 
-<div style="
-font-size:17px;
-color:#A855F7;
-font-weight:bold;
-margin-bottom:18px;
-">
-LANGUAGES
-</div>
+I'm a **Full Stack Developer** focused on building modern digital products, AI-powered applications and sustainable technology brands.
 
-<div>
+I enjoy taking an idea from:
 
-<span style="
-background:#EEF2FF;
-color:#6366F1;
-padding:9px 17px;
-border-radius:25px;
-font-weight:600;
-">
-Python </span>
+`Concept → Design → Code → Product`
 
- 
+Currently architecting my technology ecosystem under **Flectonis**.
 
-<span style="
-background:#F3E8FF;
-color:#8B5CF6;
-padding:9px 17px;
-border-radius:25px;
-font-weight:600;
-">
-JavaScript </span>
+<br/>
 
- 
+### Currently exploring
 
-<span style="
-background:#EEF2FF;
-color:#6366F1;
-padding:9px 17px;
-border-radius:25px;
-font-weight:600;
-">
-TypeScript </span>
-
- 
-
-<span style="
-background:#F3E8FF;
-color:#8B5CF6;
-padding:9px 17px;
-border-radius:25px;
-font-weight:600;
-">
-Kotlin </span>
-
-</div>
-
-</div>
+* 🤖 AI & intelligent applications
+* 🌐 Full Stack development
+* 📱 Android development
+* 🧩 Product engineering
+* 🚀 Startup & technology ecosystems
 
 </td>
 
-</tr>
+<td width="45%" valign="top">
 
-<tr>
+<div align="center">
 
-<td align="center" style="padding:15px;">
+## ◈ FLECTONIS
 
-<div style="
-background:linear-gradient(145deg,rgba(139,92,246,.12),rgba(168,85,247,.08));
-border-radius:20px;
-padding:25px;
-border:1px solid rgba(168,85,247,.3);
-box-shadow:0 10px 35px rgba(139,92,246,.12);
-">
+### DIGITAL ECOSYSTEM
 
-<div style="
-font-size:17px;
-color:#8B5CF6;
-font-weight:bold;
-margin-bottom:18px;
-">
-FRAMEWORKS & TOOLS
-</div>
+<br/>
 
-<div>
+`BUILD`
 
-<span style="
-background:#EEF2FF;
-color:#6366F1;
-padding:9px 17px;
-border-radius:25px;
-font-weight:600;
-">
-React </span>
+↓
 
- 
+`INNOVATE`
 
-<span style="
-background:#F3E8FF;
-color:#8B5CF6;
-padding:9px 17px;
-border-radius:25px;
-font-weight:600;
-">
-Android Studio </span>
+↓
 
- 
+`EVOLVE`
 
-<span style="
-background:#EEF2FF;
-color:#6366F1;
-padding:9px 17px;
-border-radius:25px;
-font-weight:600;
-">
-VS Code </span>
+<br/><br/>
 
- 
-
-<span style="
-background:#F3E8FF;
-color:#8B5CF6;
-padding:9px 17px;
-border-radius:25px;
-font-weight:600;
-">
-GitHub </span>
-
-</div>
+**Technology without limits.**
 
 </div>
 
@@ -248,182 +100,349 @@ GitHub </span>
 </tr>
 </table>
 
-</div>
-
-<br/>
 <br/>
 
 ---
 
 <div align="center">
 
-## 💎 PROJECTS & BRANDS
+# 🧬 FLECTONIS ECOSYSTEM
+
+### One ecosystem. Multiple ideas. Infinite possibilities.
 
 </div>
 
-<div align="center">
+<br/>
 
 <table>
-
 <tr>
 
-<td width="33%" align="center" style="
-background:linear-gradient(145deg,rgba(99,102,241,.12),rgba(139,92,246,.08));
-border-radius:25px;
-padding:30px 20px;
-border:1px solid rgba(139,92,246,.25);
-">
+<td width="33%" align="center">
 
-<div style="font-size:50px;">⚡</div>
+# ⚡
 
-<h3 style="color:#8B5CF6;">
-Flectonis
-</h3>
+### Flectonis
 
-<div style="
-width:55px;
-height:3px;
-background:linear-gradient(90deg,#6366F1,#A855F7);
-margin:12px auto;
-">
-</div>
+**Technology Ecosystem**
 
-<p>
-Technology Company<br/>
+Building digital products, intelligent systems and future-ready solutions.
 
-<span style="color:#A855F7;font-size:14px;">
-Build • Innovate • Evolve
-</span>
-
-</p>
+`CORE`
 
 </td>
 
-<td width="33%" align="center" style="
-background:linear-gradient(145deg,rgba(139,92,246,.12),rgba(168,85,247,.08));
-border-radius:25px;
-padding:30px 20px;
-border:1px solid rgba(168,85,247,.25);
-">
+<td width="33%" align="center">
 
-<div style="font-size:50px;">🚀</div>
+# ◇
 
-<h3 style="color:#6366F1;">
-Zencripts
-</h3>
+### Zencripts
 
-<div style="
-width:55px;
-height:3px;
-background:linear-gradient(90deg,#6366F1,#A855F7);
-margin:12px auto;
-">
-</div>
+**Digital Platform**
 
-<p>
-Web Design & Courses<br/>
+Web experiences, learning and developer-focused products.
 
-<span style="color:#8B5CF6;font-size:14px;">
-Digital Learning Platform
-</span>
-
-</p>
+`PRODUCT`
 
 </td>
 
-<td width="33%" align="center" style="
-background:linear-gradient(145deg,rgba(99,102,241,.12),rgba(168,85,247,.08));
-border-radius:25px;
-padding:30px 20px;
-border:1px solid rgba(99,102,241,.25);
-">
+<td width="33%" align="center">
 
-<div style="font-size:50px;">🤖</div>
+# ◉
 
-<h3 style="color:#A855F7;">
-Zara AI
-</h3>
+### Zara AI
 
-<div style="
-width:55px;
-height:3px;
-background:linear-gradient(90deg,#6366F1,#A855F7);
-margin:12px auto;
-">
-</div>
+**AI Assistant**
 
-<p>
-AI Assistant for Students<br/>
+An AI-focused product designed around accessible intelligent experiences.
 
-<span style="color:#8B5CF6;font-size:14px;">
-Powered by Gemini
-</span>
-
-</p>
+`AI`
 
 </td>
 
 </tr>
-
 </table>
 
-</div>
-
-<br/>
 <br/>
 
 ---
 
 <div align="center">
 
-## 📊 GITHUB STATS
+# 🛠️ TECH ARSENAL
+
+### Tools are only powerful when ideas know how to use them.
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,kotlin,react,nextjs,nodejs,html,css,tailwind,supabase,git,github,vscode,androidstudio&perline=8" />
 
 </div>
 
-<div align="center">
+<br/>
 
 <table>
-
 <tr>
 
-<td style="padding:10px;">
+<td width="50%" valign="top">
 
-<div style="
-background:linear-gradient(145deg,rgba(99,102,241,.08),rgba(139,92,246,.08));
-border-radius:25px;
-padding:20px;
-border:1px solid rgba(99,102,241,.25);
-">
+### `LANGUAGES`
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=MohamedFarook-H&show_icons=true&theme=radical&hide_border=true&title_color=8B5CF6&icon_color=6366F1&text_color=E2E8F0&bg_color=0B0A1A"
-width="100%"
-/>
-
-</div>
+```text
+Python
+JavaScript
+TypeScript
+Kotlin
+HTML
+CSS
+```
 
 </td>
 
-<td style="padding:10px;">
+<td width="50%" valign="top">
 
-<div style="
-background:linear-gradient(145deg,rgba(139,92,246,.08),rgba(168,85,247,.08));
-border-radius:25px;
-padding:20px;
-border:1px solid rgba(139,92,246,.25);
-">
+### `TOOLS & TECHNOLOGIES`
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedFarook-H&theme=dark&hide_border=true&background=0B0A1A&stroke=6366F1&ring=8B5CF6&fire=A855F7&currStreakNum=E2E8F0"
-width="100%"
-/>
+```text
+React
+Next.js
+Node.js
+Tailwind CSS
+Supabase
+Git
+GitHub
+Android Studio
+VS Code
+```
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+# 🚀 WHAT I'M BUILDING
 
 </div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### `01` — AI
+
+## Zara AI
+
+An AI assistant concept focused on creating a simple and accessible intelligent experience.
+
+**Focus**
+
+`AI` `UX` `Voice` `Automation`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `02` — DIGITAL
+
+## Zencripts
+
+A digital ecosystem exploring web experiences, learning and developer-oriented products.
+
+**Focus**
+
+`Web` `Education` `Products`
 
 </td>
 
 </tr>
 
+<tr>
+
+<td width="50%" valign="top">
+
+### `03` — ECOSYSTEM
+
+## Flectonis
+
+The technology ecosystem connecting products, ideas and future experiments.
+
+**Focus**
+
+`Technology` `Innovation` `Systems`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `04` — NEXT
+
+## What's next?
+
+Always experimenting with new ideas.
+
+**Status**
+
+`BUILDING...`
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+# 📊 GITHUB // SYSTEM STATUS
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedFarook-H&show_icons=true&hide_border=true&bg_color=0B0A1A&title_color=8B5CF6&icon_color=6366F1&text_color=E2E8F0&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFarook-H&layout=compact&hide_border=true&bg_color=0B0A1A&title_color=8B5CF6&text_color=E2E8F0&langs_count=8" height="180"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=MohamedFarook-H&hide_border=true&background=0B0A1A&ring=8B5CF6&fire=A855F7&currStreakLabel=8B5CF6&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="70%"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+# 📈 CONTRIBUTION MATRIX
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedFarook-H&bg_color=0B0A1A&color=8B5CF6&line=6366F1&point=A855F7&area_color=4F46E5&area=true&hide_border=true&custom_title=BUILDING%20IN%20PUBLIC" width="95%"/>
+
+</div>
+
+<br/>
+
+---
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌱 CURRENTLY LEARNING
+
+```text
+┌──────────────────────────┐
+│  Android Development     │
+│  AI Engineering          │
+│  Advanced React          │
+│  Backend Architecture    │
+│  Product Design          │
+└──────────────────────────┘
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔭 CURRENTLY BUILDING
+
+```text
+┌──────────────────────────┐
+│  Flectonis               │
+│  Zencripts               │
+│  Zara AI                 │
+│  Developer Experiments   │
+│  New Digital Products    │
+└──────────────────────────┘
+```
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+# 🧠 HOW I THINK
+
+<br/>
+
+<table>
+<tr>
+
+<td align="center">
+
+### `01`
+
+**IDEA**
+
+Start with a problem.
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center">
+
+### `02`
+
+**DESIGN**
+
+Make it simple.
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center">
+
+### `03`
+
+**BUILD**
+
+Turn it real.
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center">
+
+### `04`
+
+**EVOLVE**
+
+Keep improving.
+
+</td>
+
+</tr>
 </table>
 
 </div>
@@ -434,128 +453,50 @@ width="100%"
 
 <div align="center">
 
-<div style="
-background:linear-gradient(145deg,rgba(99,102,241,.08),rgba(139,92,246,.08));
-border-radius:25px;
-padding:22px;
-border:1px solid rgba(139,92,246,.25);
-">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedFarook-H&theme=react-dark&bg_color=0B0A1A&color=8B5CF6&line=6366F1&point=A855F7&area=true&area_color=6366F1&hide_border=true"
-width="100%"
-/>
-
-</div>
-
-</div>
+## 🌐 LET'S CONNECT
 
 <br/>
-<br/>
-
----
-
-<div align="center">
-
-## 🌐 CONNECT
-
-<div style="
-background:linear-gradient(145deg,rgba(99,102,241,.12),rgba(139,92,246,.12));
-border-radius:50px;
-padding:20px 30px;
-border:1px solid rgba(139,92,246,.3);
-box-shadow:0 10px 35px rgba(99,102,241,.12);
-display:inline-block;
-">
 
 <a href="https://github.com/MohamedFarook-H">
-<img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-11111F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-
-  
 
 <a href="https://linkedin.com/in/yourprofile">
-<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
-
-  
 
 <a href="#">
-<img src="https://img.shields.io/badge/Flectonis-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flectonis-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
 </a>
 
 </div>
 
-</div>
-
-<br/>
 <br/>
 
 ---
 
 <div align="center">
 
-<div style="
-max-width:750px;
-background:linear-gradient(145deg,rgba(99,102,241,.12),rgba(139,92,246,.12));
-border-radius:30px;
-padding:35px;
-border:1px solid rgba(139,92,246,.3);
-box-shadow:0 15px 45px rgba(99,102,241,.12);
-">
-
-<div style="font-size:40px;color:#8B5CF6;">
-❝
-</div>
-
-<p style="
-color:#E2E8F0;
-font-size:19px;
-font-style:italic;
-line-height:1.7;
-">
-
-The best way to predict the future is to create it.
-
-</p>
-
-<div style="
-width:60px;
-height:3px;
-background:linear-gradient(90deg,#6366F1,#A855F7);
-margin:18px auto;
-">
-</div>
-
-<p style="
-color:#A855F7;
-font-size:14px;
-">
-
-— Mohamed Farook | Flectonis
-
-</p>
-
-</div>
-
-</div>
-
-<br/>
-<br/>
-
----
-
-<div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=soft&color=6366F1&height=110&section=footer&text=Flectonis%20%E2%80%A2%20Build%20%E2%80%A2%20Innovate%20%E2%80%A2%20Evolve&fontSize=18&fontColor=FFFFFF&animation=twinkling"
-width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:7C3AED,100:A855F7&height=2&section=header" width="100%"/>
 
 <br/>
 
-<sub style="color:#8B5CF6;">
-© 2026 Flectonis. All rights reserved.
+### ❝
+
+# Build what doesn't exist yet.
+
+**— Mohamed Farook · Flectonis**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=120&section=footer&text=FLECTONIS&fontSize=28&fontColor=FFFFFF&animation=twinkling&fontAlignY=65" width="100%"/>
+
+<br/>
+
+<sub>
+
+© 2026 Flectonis · Built with curiosity, code & caffeine.
+
 </sub>
 
 </div>
